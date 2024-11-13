@@ -1,4 +1,4 @@
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Alessandra Camargo Barbetta 3D 13/11/2024*/
     .carrossel__titulo {
         color: var(--laranja);
         background-color: var(--branco);
@@ -9,7 +9,7 @@
         padding: 1em 0 0.5em 0;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Alessandra Camargo Barbetta 3D 13/11/2024*/
     .swiper-slide img {
         width: 100%;
     }
@@ -34,7 +34,7 @@
         display: flex;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Alessandra Camargo Barbetta 3D 13/11/2024*/
     .card {
         background: var(--branco);
         box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
@@ -65,7 +65,7 @@
         align-items: center;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Alessandra Camargo Barbetta 3D 13/11/2024*/
     .botoes__ancora {
         background-color: var(--laranja);
         padding: 1em 2.2em;
@@ -97,7 +97,7 @@
         display: none;
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Alessandra Camargo Barbetta 3D 13/11/2024*/
     @media screen and (min-width: 1024px) {
 
         .swiper-pagination {
@@ -124,7 +124,7 @@
 
     @media screen and (min-width: 1728px) {
 
-        /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+        /*Alessandra Camargo Barbetta 3D 13/11/2024*/
         .carrossel__container {
             display: flex;
             margin: 0 20vw 3em 20vw;
@@ -147,7 +147,7 @@
             font-size: 16px;
         }
 
-        /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+        /*Alessandra Camargo Barbetta 3D 13/11/2024*/
         .descricao {
             margin-right: 2em;
         }
