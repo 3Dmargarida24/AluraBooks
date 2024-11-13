@@ -5,7 +5,7 @@
     padding: 2.5em 2em;
 }
 
-/*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+/*Alessandra Camargo Barbetta 3D 13/11/2024*/
 .banner__titulo {
     font-size: 18px;
     font-weight: 700;
@@ -35,7 +35,7 @@
     background-position: 0.5em;
 }
 
-/*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+/*Alessandra Camargo Barbetta 3D 13/11/2024*/
 @media screen and (min-width: 1024px) {
     .banner__titulo {
         font-size: 36px;
@@ -56,7 +56,7 @@
         width: 35%
     }
 
-    /*Heitor Gabriel de Oliveira 3D 13/11/2006*/
+    /*Alessandra Camargo Barbetta 3D 13/11/2024*/
     .banner__pesquisa::placeholder {
         background-position: 12em;
     }
